@@ -1,0 +1,6 @@
+# resultado
+
+linha,email,email_valido,cpf,cpf_valido,telefone,telefone_valido,data,data_valida
+1,ana.souza@email.com,True,529.982.247-25,True,(98) 98765-4321,True,15/03/1990,True
+2,,False,111.111.111-11,False,(98) 3234-5678,True,31/02/2000,False
+3,carla.dias@empresa.com.br,True,529.982.247-25,True,(11) 91234-5678,True,22/07/1985,True
